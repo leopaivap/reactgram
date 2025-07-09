@@ -49,7 +49,7 @@ Primeiro, clone o repositório e instale as dependências do backend.
 
 ```bash
 # Navegue para a pasta do backend
-cd 12_REACTGRAM/backend
+cd backend
 
 # Instale as dependências
 npm install
@@ -82,7 +82,7 @@ Em um novo terminal, navegue para a pasta do frontend e instale as dependências
 
 ```bash
 # Navegue para a pasta do frontend
-cd 12_REACTGRAM/frontend
+cd frontend
 
 # Instale as dependências
 npm install
